@@ -1,3 +1,3 @@
-# Welcome to my blog
+# This is Your Page
 
-I'm glad you are here. I plan to talk about ...
+Come visit when there's content
